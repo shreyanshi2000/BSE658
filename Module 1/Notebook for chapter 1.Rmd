@@ -78,7 +78,7 @@ Indexing
 ```{r}
 mydf[2, ] # 2nd column
 ```
-PLOTING
+PLOTING #histogram plotting
 ```{r}
 mean(mydf$score)
 str(mydf)
