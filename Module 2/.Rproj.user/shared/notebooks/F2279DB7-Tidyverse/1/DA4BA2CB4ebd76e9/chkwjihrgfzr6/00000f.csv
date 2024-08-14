@@ -1,0 +1,2 @@
+"0","data<-mutate(covid_data, prop = Positive+100)"
+"0","data"

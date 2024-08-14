@@ -1,0 +1,2 @@
+"0","uttrakhand<-filter(covid_data, State == 'Uttarakhand')"
+"0","uttrakhand"
